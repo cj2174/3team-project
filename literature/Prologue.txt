@@ -1,9 +1,13 @@
-<<<<<<< HEAD
 도형
-=======
+
+---
+
 지혜
 test code test code test code test code test code test code test code test code test code test code test code test code test code test code test code
+프롤로그를 수정해봅시다
+룰루랄라
 
-윤서
->>>>>>> b17a810cf48ed9e2e590af4cd00a2934268b0335
+---
+
+윤서!
 
