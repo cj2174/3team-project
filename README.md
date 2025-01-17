@@ -1,9 +1,9 @@
 ## 1. 프로젝트 폴더 만들기
-먼저, 프로젝트를 시작할 때 로컬 폴더를 생성하고 그 안에 Git을 초기화해야 합니다.
+먼저, 프로젝트를 시작할 때 로컬 폴더를 생성하고 그 안에 Git을 초기화해야 합니다.<br /><br />
 
 ### 1.1 로컬 폴더 생성
 mkdir 3team-project <br />
-cd 3team-project<br />
+cd 3team-project<br /><br />
 
 ### 1.2 Git 저장소 초기화
 Git이 설치된 상태에서 git init 명령어로 프로젝트 디렉터리를 Git 저장소로 초기화합니다.<br />
@@ -20,16 +20,16 @@ git remote add origin https://github.com/yourusername/3team-project.git<br /><br
 
 ### 3.1 기본 브랜치 확인 (main)
 레포지토리 생성 후, 기본 브랜치로 main이 설정됩니다. main 브랜치는 배포 가능한 안정적인 버전만 유지해야 하므로, 작업은 다른 브랜치에서 진행합니다.<br />
-git checkout main  # main 브랜치로 이동
+git checkout main  # main 브랜치로 이동 <br /><br />
 
 ### 3.2 새 브랜치 생성
-새로운 기능을 추가하거나 수정할 때는 main 브랜치를 기준으로 새 브랜치를 만듭니다. 브랜치 이름은 작업 내용에 맞게 짓습니다.<br />
+새로운 기능을 추가하거나 수정할 때는 main 브랜치를 기준으로 새 브랜치를 만듭니다. 브랜치 이름은 작업 내용에 맞게 짓습니다.<br /><br />
 
 예시<br />
 feature/scene1 : 새로운 장면 추가<br />
 bugfix/login-error : 로그인 오류 수정<br />
 git checkout -b feature/scene1  # 새 브랜치 생성 후 이동<br />
-
+<br />
 ### 3.3 브랜치 푸시 (원격 저장소에 업로드)
 새로 만든 브랜치는 원격 저장소에 푸시해야 다른 팀원들도 작업할 수 있습니다.<br />
 git push -u origin feature/scene1  # 원격 저장소에 브랜치 업로드<br /><br />
@@ -57,6 +57,7 @@ Create Pull Request 버튼을 클릭하여 PR을 생성합니다.<br />
 
 ### 5.2 PR 리뷰 및 병합
 PR을 생성하면 팀원들이 코드 리뷰를 할 수 있습니다. 리뷰가 끝난 후, Merge 버튼을 클릭하여 main 브랜치에 병합합니다.<br />
+<br /><br />
 
 ## 6. PR 병합 후 정리
 병합이 완료되면 작업이 끝난 브랜치는 삭제해야 합니다.<br />
