@@ -1,0 +1,300 @@
+
+4. Act I, Scene 3
+맨위로
+1
+A room in Capulet’s house.
+ 
+2
+[Enter LADY CAPULET and Nurse]
+ 
+3
+Lady Capulet.
+4
+      Nurse, where's my daughter? call her forth to me.
+5
+Nurse.
+6
+      Now, by my maidenhead, at twelve year old,
+7
+      I bade her come. What, lamb! what, ladybird!
+8
+      God forbid! Where's this girl? What, Juliet!
+ 
+9
+[Enter JULIET]
+ 
+10
+Juliet.
+11
+      How now! who calls?
+12
+Nurse.
+13
+      Your mother.
+14
+Juliet.
+15
+      Madam, I am here.
+16
+      What is your will?
+17
+Lady Capulet.
+18
+      This is the matter:—Nurse, give leave awhile,
+19
+      We must talk in secret:—nurse, come back again;
+20
+      I have remember'd me, thou's hear our counsel.
+21
+      Thou know'st my daughter's of a pretty age.
+22
+Nurse.
+23
+      Faith, I can tell her age unto an hour.
+24
+Lady Capulet.
+25
+      She's not fourteen.
+26
+Nurse.
+27
+      I'll lay fourteen of my teeth,—
+28
+      And yet, to my teeth be it spoken, I have but four—
+29
+      She is not fourteen. How long is it now
+30
+      To Lammas-tide?
+31
+Lady Capulet.
+32
+      A fortnight and odd days.
+33
+Nurse.
+34
+      Even or odd, of all days in the year,
+35
+      Come Lammas-eve at night shall she be fourteen.
+36
+      Susan and she—God rest all Christian souls!—
+37
+      Were of an age: well, Susan is with God;
+38
+      She was too good for me: but, as I said,
+39
+      On Lammas-eve at night shall she be fourteen;
+40
+      That shall she, marry; I remember it well.
+41
+      'Tis since the earthquake now eleven years;
+42
+      And she was wean'd,—I never shall forget it,—
+43
+      Of all the days of the year, upon that day:
+44
+      For I had then laid wormwood to my dug,
+45
+      Sitting in the sun under the dove-house wall;
+46
+      My lord and you were then at Mantua:—
+47
+      Nay, I do bear a brain:—but, as I said,
+48
+      When it did taste the wormwood on the nipple
+49
+      Of my dug and felt it bitter, pretty fool,
+50
+      To see it tetchy and fall out with the dug!
+51
+      Shake quoth the dove-house: 'twas no need, I trow,
+52
+      To bid me trudge:
+53
+      And since that time it is eleven years;
+54
+      For then she could stand alone; nay, by the rood,
+55
+      She could have run and waddled all about;
+56
+      For even the day before, she broke her brow:
+57
+      And then my husband—God be with his soul!
+58
+      A' was a merry man—took up the child:
+59
+      'Yea,' quoth he, 'dost thou fall upon thy face?
+60
+      Thou wilt fall backward when thou hast more wit;
+61
+      Wilt thou not, Jule?' and, by my holidame,
+62
+      The pretty wretch left crying and said 'Ay.'
+63
+      To see, now, how a jest shall come about!
+64
+      I warrant, an I should live a thousand years,
+65
+      I never should forget it: 'Wilt thou not, Jule?' quoth he;
+66
+      And, pretty fool, it stinted and said 'Ay.'
+67
+Lady Capulet.
+68
+      Enough of this; I pray thee, hold thy peace.
+69
+Nurse.
+70
+      Yes, madam: yet I cannot choose but laugh,
+71
+      To think it should leave crying and say 'Ay.'
+72
+      And yet, I warrant, it had upon its brow
+73
+      A bump as big as a young cockerel's stone;
+74
+      A parlous knock; and it cried bitterly:
+75
+      'Yea,' quoth my husband,'fall'st upon thy face?
+76
+      Thou wilt fall backward when thou comest to age;
+77
+      Wilt thou not, Jule?' it stinted and said 'Ay.'
+78
+Juliet.
+79
+      And stint thou too, I pray thee, nurse, say I.
+80
+Nurse.
+81
+      Peace, I have done. God mark thee to his grace!
+82
+      Thou wast the prettiest babe that e'er I nursed:
+83
+      An I might live to see thee married once,
+84
+      I have my wish.
+85
+Lady Capulet.
+86
+      Marry, that 'marry' is the very theme
+87
+      I came to talk of. Tell me, daughter Juliet,
+88
+      How stands your disposition to be married?
+89
+Juliet.
+90
+      It is an honour that I dream not of.
+91
+Nurse.
+92
+      An honour! were not I thine only nurse,
+93
+      I would say thou hadst suck'd wisdom from thy teat.
+94
+Lady Capulet.
+95
+      Well, think of marriage now; younger than you,
+96
+      Here in Verona, ladies of esteem,
+97
+      Are made already mothers: by my count,
+98
+      I was your mother much upon these years
+99
+      That you are now a maid. Thus then in brief:
+100
+      The valiant Paris seeks you for his love.
+101
+Nurse.
+102
+      A man, young lady! lady, such a man
+103
+      As all the world—why, he's a man of wax.
+104
+Lady Capulet.
+105
+      Verona's summer hath not such a flower.
+106
+Nurse.
+107
+      Nay, he's a flower; in faith, a very flower.
+108
+Lady Capulet.
+109
+      What say you? can you love the gentleman?
+110
+      This night you shall behold him at our feast;
+111
+      Read o'er the volume of young Paris' face,
+112
+      And find delight writ there with beauty's pen;
+113
+      Examine every married lineament,
+114
+      And see how one another lends content
+115
+      And what obscured in this fair volume lies
+116
+      Find written in the margent of his eyes.
+117
+      This precious book of love, this unbound lover,
+118
+      To beautify him, only lacks a cover:
+119
+      The fish lives in the sea, and 'tis much pride
+120
+      For fair without the fair within to hide:
+121
+      That book in many's eyes doth share the glory,
+122
+      That in gold clasps locks in the golden story;
+123
+      So shall you share all that he doth possess,
+124
+      By having him, making yourself no less.
+125
+Nurse.
+126
+      No less! nay, bigger; women grow by men.
+127
+Lady Capulet.
+128
+      Speak briefly, can you like of Paris' love?
+129
+Juliet.
+130
+      I'll look to like, if looking liking move:
+131
+      But no more deep will I endart mine eye
+132
+      Than your consent gives strength to make it fly.
+ 
+133
+[Enter a Servant]
+ 
+134
+Servant.
+135
+      Madam, the guests are come, supper served up, you
+136
+      called, my young lady asked for, the nurse cursed in
+137
+      the pantry, and every thing in extremity. I must
+138
+      hence to wait; I beseech you, follow straight.
+139
+Lady Capulet.
+140
+      We follow thee.
+141
+      [Exit Servant]
+142
+      Juliet, the county stays.
+143
+Nurse.
+144
+      Go, girl, seek happy nights to happy days.
+ 
+145
+[Exeunt]
