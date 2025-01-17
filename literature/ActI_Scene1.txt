@@ -1,0 +1,221 @@
+
+Verona. A public place.
+ 
+2
+[Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers]
+ 
+3
+Sampson.
+4
+      Gregory, o' my word, we'll not carry coals.
+5
+Gregory.
+6
+      No, for then we should be colliers.
+7
+Sampson.
+8
+      I mean, an we be in choler, we'll draw.
+9
+Gregory.
+10
+      Ay, while you live, draw your neck out o' the collar.
+11
+Sampson.
+12
+      I strike quickly, being moved.
+13
+Gregory.
+14
+      But thou art not quickly moved to strike.
+15
+Sampson.
+16
+      A dog of the house of Montague moves me.
+17
+Gregory.
+18
+      To move is to stir; and to be valiant is to stand:
+19
+      therefore, if thou art moved, thou runn'st away.
+20
+Sampson.
+21
+      A dog of that house shall move me to stand: I will
+22
+      take the wall of any man or maid of Montague's.
+23
+Gregory.
+24
+      That shows thee a weak slave; for the weakest goes
+25
+      to the wall.
+26
+Sampson.
+27
+      True; and therefore women, being the weaker vessels,
+28
+      are ever thrust to the wall: therefore I will push
+29
+      Montague's men from the wall, and thrust his maids
+30
+      to the wall.
+31
+Gregory.
+32
+      The quarrel is between our masters and us their men.
+33
+Sampson.
+34
+      'Tis all one, I will show myself a tyrant: when I
+35
+      have fought with the men, I will be cruel with the
+36
+      maids, and cut off their heads.
+37
+Gregory.
+38
+      The heads of the maids?
+39
+Sampson.
+40
+      Ay, the heads of the maids, or their maidenheads;
+41
+      take it in what sense thou wilt.
+42
+Gregory.
+43
+      They must take it in sense that feel it.
+44
+Sampson.
+45
+      Me they shall feel while I am able to stand: and
+46
+      'tis known I am a pretty piece of flesh.
+47
+Gregory.
+48
+      'Tis well thou art not fish; if thou hadst, thou
+49
+      hadst been poor John. Draw thy tool! here comes
+50
+      two of the house of the Montagues.
+51
+Sampson.
+52
+      My naked weapon is out: quarrel, I will back thee.
+53
+Gregory.
+54
+      How! turn thy back and run?
+55
+Sampson.
+56
+      Fear me not.
+57
+Gregory.
+58
+      No, marry; I fear thee!
+59
+Sampson.
+60
+      Let us take the law of our sides; let them begin.
+61
+Gregory.
+62
+      I will frown as I pass by, and let them take it as
+63
+      they list.
+64
+Sampson.
+65
+      Nay, as they dare. I will bite my thumb at them;
+66
+      which is a disgrace to them, if they bear it.
+ 
+67
+[Enter ABRAHAM and BALTHASAR]
+ 
+68
+Abraham.
+69
+      Do you bite your thumb at us, sir?
+70
+Sampson.
+71
+      I do bite my thumb, sir.
+72
+Abraham.
+73
+      Do you bite your thumb at us, sir?
+74
+Sampson.
+75
+      [Aside to GREGORY]Is the law of our side, if I say
+76
+      ay?
+77
+Gregory.
+78
+      No.
+79
+Sampson.
+80
+      No, sir, I do not bite my thumb at you, sir, but I
+81
+      bite my thumb, sir.
+82
+Gregory.
+83
+      Do you quarrel, sir?
+84
+Abraham.
+85
+      Quarrel sir! no, sir.
+86
+Sampson.
+87
+      If you do, sir, I am for you: I serve as good a man as you.
+88
+Abraham.
+89
+      No better.
+90
+Sampson.
+91
+      Well, sir.
+92
+Gregory.
+93
+      Say 'better:' here comes one of my master's kinsmen.
+94
+Sampson.
+95
+      Yes, better, sir.
+96
+Abraham.
+97
+      You lie.
+98
+Sampson.
+99
+      Draw, if you be men. Gregory, remember thy swashing blow.
+ 
+100
+[They fight]
+ 
+101
+[Enter BENVOLIO]
+ 
+102
+Benvolio.
+103
+      Part, fools!
+104
+      Put up your swords; you know not what you do.
+ 
+105
+[Beats down their swords]
+ 
+106
+[Enter TYBALT]
