@@ -1,0 +1,444 @@
+A hall in Capulet’s house.
+ 
+2
+[Musicians waiting. Enter Servingmen with napkins]
+ 
+3
+First Servant.
+4
+      Where's Potpan, that he helps not to take away? He
+5
+      shift a trencher? he scrape a trencher!
+6
+Second Servant.
+7
+      When good manners shall lie all in one or two men's
+8
+      hands and they unwashed too, 'tis a foul thing.
+9
+First Servant.
+10
+      Away with the joint-stools, remove the
+11
+      court-cupboard, look to the plate. Good thou, save
+12
+      me a piece of marchpane; and, as thou lovest me, let
+13
+      the porter let in Susan Grindstone and Nell.
+14
+      Antony, and Potpan!
+15
+Second Servant.
+16
+      Ay, boy, ready.
+17
+First Servant.
+18
+      You are looked for and called for, asked for and
+19
+      sought for, in the great chamber.
+20
+Second Servant.
+21
+      We cannot be here and there too. Cheerly, boys; be
+22
+      brisk awhile, and the longer liver take all.
+ 
+23
+[Enter CAPULET, with JULIET and others of his house, meeting the Guests and Maskers]
+ 
+24
+Capulet.
+25
+      Welcome, gentlemen! ladies that have their toes
+26
+      Unplagued with corns will have a bout with you.
+27
+      Ah ha, my mistresses! which of you all
+28
+      Will now deny to dance? she that makes dainty,
+29
+      She, I'll swear, hath corns; am I come near ye now?
+30
+      Welcome, gentlemen! I have seen the day
+31
+      That I have worn a visor and could tell
+32
+      A whispering tale in a fair lady's ear,
+33
+      Such as would please: 'tis gone, 'tis gone, 'tis gone:
+34
+      You are welcome, gentlemen! come, musicians, play.
+35
+      A hall, a hall! give room! and foot it, girls.
+36
+      [Music plays, and they dance]
+37
+      More light, you knaves; and turn the tables up,
+38
+      And quench the fire, the room is grown too hot.
+39
+      Ah, sirrah, this unlook'd-for sport comes well.
+40
+      Nay, sit, nay, sit, good cousin Capulet;
+41
+      For you and I are past our dancing days:
+42
+      How long is't now since last yourself and I
+43
+      Were in a mask?
+44
+Second Capulet.
+45
+      By'r lady, thirty years.
+46
+Capulet.
+47
+      What, man! 'tis not so much, 'tis not so much:
+48
+      'Tis since the nuptials of Lucentio,
+49
+      Come pentecost as quickly as it will,
+50
+      Some five and twenty years; and then we mask'd.
+51
+Second Capulet.
+52
+      'Tis more, 'tis more, his son is elder, sir;
+53
+      His son is thirty.
+54
+Capulet.
+55
+      Will you tell me that?
+56
+      His son was but a ward two years ago.
+57
+Romeo.
+58
+      [To a Servingman]What lady is that, which doth
+59
+      enrich the hand
+60
+      Of yonder knight?
+61
+Servant.
+62
+      I know not, sir.
+63
+Romeo.
+64
+      O, she doth teach the torches to burn bright!
+65
+      It seems she hangs upon the cheek of night
+66
+      Like a rich jewel in an Ethiope's ear;
+67
+      Beauty too rich for use, for earth too dear!
+68
+      So shows a snowy dove trooping with crows,
+69
+      As yonder lady o'er her fellows shows.
+70
+      The measure done, I'll watch her place of stand,
+71
+      And, touching hers, make blessed my rude hand.
+72
+      Did my heart love till now? forswear it, sight!
+73
+      For I ne'er saw true beauty till this night.
+74
+Tybalt.
+75
+      This, by his voice, should be a Montague.
+76
+      Fetch me my rapier, boy. What dares the slave
+77
+      Come hither, cover'd with an antic face,
+78
+      To fleer and scorn at our solemnity?
+79
+      Now, by the stock and honour of my kin,
+80
+      To strike him dead, I hold it not a sin.
+81
+Capulet.
+82
+      Why, how now, kinsman! wherefore storm you so?
+83
+Tybalt.
+84
+      Uncle, this is a Montague, our foe,
+85
+      A villain that is hither come in spite,
+86
+      To scorn at our solemnity this night.
+87
+Capulet.
+88
+      Young Romeo is it?
+89
+Tybalt.
+90
+      'Tis he, that villain Romeo.
+91
+Capulet.
+ 
+92
+      Content thee, gentle coz, let him alone;
+93
+      He bears him like a portly gentleman;
+94
+      And, to say truth, Verona brags of him
+95
+      To be a virtuous and well-govern'd youth:
+96
+      I would not for the wealth of all the town
+97
+      Here in my house do him disparagement:
+98
+      Therefore be patient, take no note of him:
+99
+      It is my will, the which if thou respect,
+100
+      Show a fair presence and put off these frowns,
+101
+      And ill-beseeming semblance for a feast.
+102
+Tybalt.
+103
+      It fits, when such a villain is a guest:
+104
+      I'll not endure him.
+105
+Capulet.
+106
+      He shall be endured:
+107
+      What, goodman boy! I say, he shall: go to;
+108
+      Am I the master here, or you? go to.
+109
+      You'll not endure him! God shall mend my soul!
+110
+      You'll make a mutiny among my guests!
+111
+      You will set cock-a-hoop! you'll be the man!
+112
+Tybalt.
+113
+      Why, uncle, 'tis a shame.
+114
+Capulet.
+115
+      Go to, go to;
+116
+      You are a saucy boy: is't so, indeed?
+117
+      This trick may chance to scathe you, I know what:
+118
+      You must contrary me! marry, 'tis time.
+119
+      Well said, my hearts! You are a princox; go:
+120
+      Be quiet, or—More light, more light! For shame!
+121
+      I'll make you quiet. What, cheerly, my hearts!
+122
+Tybalt.
+123
+      Patience perforce with wilful choler meeting
+124
+      Makes my flesh tremble in their different greeting.
+125
+      I will withdraw: but this intrusion shall
+126
+      Now seeming sweet convert to bitter gall.
+ 
+127
+[Exit]
+ 
+128
+Romeo.
+ 
+129
+      [To JULIET]If I profane with my unworthiest hand
+130
+      This holy shrine, the gentle fine is this:
+131
+      My lips, two blushing pilgrims, ready stand
+132
+      To smooth that rough touch with a tender kiss.
+133
+Juliet.
+134
+      Good pilgrim, you do wrong your hand too much,
+135
+      Which mannerly devotion shows in this;
+136
+      For saints have hands that pilgrims' hands do touch,
+137
+      And palm to palm is holy palmers' kiss.
+138
+Romeo.
+139
+      Have not saints lips, and holy palmers too?
+140
+Juliet.
+141
+      Ay, pilgrim, lips that they must use in prayer.
+142
+Romeo.
+143
+      O, then, dear saint, let lips do what hands do;
+144
+      They pray, grant thou, lest faith turn to despair.
+145
+Juliet.
+146
+      Saints do not move, though grant for prayers' sake.
+147
+Romeo.
+148
+      Then move not, while my prayer's effect I take.
+149
+      Thus from my lips, by yours, my sin is purged.
+150
+Juliet.
+151
+      Then have my lips the sin that they have took.
+152
+Romeo.
+153
+      Sin from thy lips? O trespass sweetly urged!
+154
+      Give me my sin again.
+155
+Juliet.
+156
+      You kiss by the book.
+157
+Nurse.
+158
+      Madam, your mother craves a word with you.
+159
+Romeo.
+160
+      What is her mother?
+161
+Nurse.
+162
+      Marry, bachelor,
+163
+      Her mother is the lady of the house,
+164
+      And a good lady, and a wise and virtuous
+165
+      I nursed her daughter, that you talk'd withal;
+166
+      I tell you, he that can lay hold of her
+167
+      Shall have the chinks.
+168
+Romeo.
+169
+      Is she a Capulet?
+170
+      O dear account! my life is my foe's debt.
+171
+Benvolio.
+172
+      Away, begone; the sport is at the best.
+173
+Romeo.
+174
+      Ay, so I fear; the more is my unrest.
+175
+Capulet.
+176
+      Nay, gentlemen, prepare not to be gone;
+177
+      We have a trifling foolish banquet towards.
+178
+      Is it e'en so? why, then, I thank you all
+179
+      I thank you, honest gentlemen; good night.
+180
+      More torches here! Come on then, let's to bed.
+181
+      Ah, sirrah, by my fay, it waxes late:
+182
+      I'll to my rest.
+ 
+183
+[Exeunt all but JULIET and Nurse]
+ 
+184
+Juliet.
+185
+      Come hither, nurse. What is yond gentleman?
+186
+Nurse.
+187
+      The son and heir of old Tiberio.
+188
+Juliet.
+189
+      What's he that now is going out of door?
+190
+Nurse.
+191
+      Marry, that, I think, be young Petrucio.
+192
+Juliet.
+193
+      What's he that follows there, that would not dance?
+194
+Nurse.
+195
+      I know not.
+196
+Juliet.
+197
+      Go ask his name: if he be married.
+198
+      My grave is like to be my wedding bed.
+199
+Nurse.
+200
+      His name is Romeo, and a Montague;
+201
+      The only son of your great enemy.
+202
+Juliet.
+203
+      My only love sprung from my only hate!
+204
+      Too early seen unknown, and known too late!
+205
+      Prodigious birth of love it is to me,
+206
+      That I must love a loathed enemy.
+207
+Nurse.
+208
+      What's this? what's this?
+209
+Juliet.
+210
+      A rhyme I learn'd even now
+211
+      Of one I danced withal.
+ 
+212
+[One calls within 'Juliet.']
+ 
+213
+Nurse.
+214
+      Anon, anon!
+215
+      Come, let's away; the strangers all are gone.
+ 
+216
+[Exeunt]
