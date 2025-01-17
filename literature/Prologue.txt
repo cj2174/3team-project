@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+dsadsadsadsads
+=======
 =======
 지우
 
@@ -13,4 +16,5 @@ test code test code test code test code test code test code test code test code 
 ---
 
 윤서!
+>>>>>>> d3355cd1e4654168f418476db6eb3150983a39f4
 
