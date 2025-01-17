@@ -41,8 +41,9 @@ git push
 - 깃허브 레포지토리로 이동.
 - "Pull Requests" 탭 클릭.
 - "New Pull Request" 버튼 클릭.
-- 작업한 브랜치(feature/scene1)와 병합 대상 브랜치(main)를 선택.
-- PR 제목과 내용을 작성:
+- 작업한 브랜치(feature/scene1)와 병합 대상 브랜치(main)를 선택.<br /><br />
+
+#### PR 제목과 내용을 작성
 - 제목: 작업 내용을 요약 (예: Update Scene 1 dialogue).
 - 내용: 변경 사항에 대한 자세한 설명 추가.
 - "Create Pull Request" 버튼 클릭.
